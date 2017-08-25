@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.4",
     "react": "^15.2.1",
     "react-dom": "^15.2.1"
   },
